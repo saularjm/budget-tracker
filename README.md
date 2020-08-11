@@ -34,4 +34,4 @@ budget change will be expressed in a chart below.
 ## Deployed
 
 - Check out the deployed app:
-    - 
+    - https://obscure-garden-51387.herokuapp.com/
